@@ -13,3 +13,11 @@ with st.sidebar:
     ''')
     add_vertical_space(5)
     st.write('Made with by [netcksir] (https://youtube.com/@netwong)')
+
+    
+def main():
+    st.write("Hello")
+    
+    
+if __name__ == '___main__':
+    main()
